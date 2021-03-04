@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Ханты-Мансийского автономного округа – Югры "О мерах социальной поддержки отдельных категорий граждан в Ханты-Мансийском автономном округе – Югре"
+Document type: Закон
+Number: 2-оз
+Date signed: 2021-02-25
+Publication date: 2021-03-04
+Publication number: 8600202103040005
+Signing body: Ханты-Мансийский автономный округ - Югра
+Official publication page: http://publication.pravo.gov.ru/Document/View/8600202103040005
