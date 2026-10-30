@@ -1,0 +1,1525 @@
+{
+ "country": "RU-KHM",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e218c371a34e06c55e373b14c0806b5203e884c19b7eb5a6a798896d4aaf8a47"
+    },
+    {
+     "from": "2014-11-28",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "86982894227102e1e81ca3ebbf4e466453e3e663d27d5fa5b58b0429509fe59b"
+    },
+    {
+     "from": "2014-12-02",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a4080d8c84a98b0eb70452b77ebca01e7b4d878c8ade4369d1afe6c8b6c7a51c"
+    },
+    {
+     "from": "2014-12-12",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "28531f10cc6526002a3d6a9cd66bc819639878e7cdc41214b0c06d0c36e2fe3d"
+    },
+    {
+     "from": "2014-12-15",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b353031ada9cfe2cc1a0d1fe2e98b1a5174a769f037cff5e6edd3e7c2d5850d6"
+    },
+    {
+     "from": "2014-12-22",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "240bf462adbee22849cf7e1bdb3f4ce9c132fdaef7538936da7612e46e5a8a14"
+    },
+    {
+     "from": "2014-12-25",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "088361a1626fb5af4306352965460eda54a335ae4fbab5dcc9958cff6ba4a981"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "13b4589733b7cc2f26e0cd8c6c82c6131307d55688f8209d09293e9e77a8fbf2"
+    },
+    {
+     "from": "2015-02-25",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f88a8a361c272ab2ca11b9f96a932d4ed27b39f0a4ae1127a3661855e59df736"
+    },
+    {
+     "from": "2015-03-13",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "65bdac1f09790e01af3019bda0a2e8fcab60f35ec655a4c8ef195451d5e22b1d"
+    },
+    {
+     "from": "2015-04-21",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a2484deae00d0424d09af925cfd5fa927ae9af6227b4e2ce2fc53a258d759443"
+    },
+    {
+     "from": "2015-04-22",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1352b3ad92cb09773a70b8a603c4e6204594c9135d94a8c5797acc1fd914c992"
+    },
+    {
+     "from": "2015-05-29",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4f503f0210d18e814b97460995bfee528a880101436e973756fffed0d3d5c2c8"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8af0165188bc48830c76dc6a60141eda90b81edece90d42796e6181c1316b979"
+    },
+    {
+     "from": "2015-06-29",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e9b5686cd76b90b78a17bb48365c4847bad39c6219105f83a78ecbb8b45e304f"
+    },
+    {
+     "from": "2015-08-19",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "052b449601ba254d3c2bfea489a03c4b981de4c796a4f76643fa2847b9cc6635"
+    },
+    {
+     "from": "2015-09-30",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4110756e22ab3d9997335b8aa5f2c8d035908f3db4e3b4a4b50f2c9cf9dc861a"
+    },
+    {
+     "from": "2015-10-20",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "98f7ddf83b966da79afce5bfcd1f46d630804a6f83f64f001e2cb8346aefe19f"
+    },
+    {
+     "from": "2015-11-02",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5186c48a1dedd91b9634980bad398d561288f2b140e4531f8cd7c7edd16bbfbf"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "52c4f1a2515ad154f7e18f470ec5dc6e10adf527ef70b7d54d760e06e1e68037"
+    },
+    {
+     "from": "2015-11-18",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "07a4eb005ff28d794ad78839ba499098a10a6f5d9c2a56612dfe86476b3ca58f"
+    },
+    {
+     "from": "2015-11-20",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "23afabdbfcd28ad41ace7c2810fc9f7c88f7c4e2e028cd2d352a814a09df1a05"
+    },
+    {
+     "from": "2015-11-23",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "33d1402e4befcb19fa9959a1436a75a074383bec876440fbe3c882c4486ea8ee"
+    },
+    {
+     "from": "2015-11-30",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6969e0ecdaf501aa949320cfcc6c06123a308278e378dd71791c10a03ed79e59"
+    },
+    {
+     "from": "2015-12-11",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b46a9eb1cd4fe68e7ed4faeac44dc880bdd79e90ec033836bf70f8709a9a2a22"
+    },
+    {
+     "from": "2015-12-14",
+     "units": 137,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "89e276e79bcfc77d54a5a9c3f22add42c1092a1ac5edfaecc7959db32d674342"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "429f24be57004d88a8a8973f6f9360f32051daf364e391d5866da208bb61a393"
+    },
+    {
+     "from": "2016-02-05",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "fdfd7484d057a75d27afcbf81d2bacaa8fa9e981f783d603adf4a76f403be843"
+    },
+    {
+     "from": "2016-02-29",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f01f2a72628bdb275b74fb256e19b1aad85b3541f5f99f28e6484e73235bf010"
+    },
+    {
+     "from": "2016-03-01",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "470821dc7c5af5eece192130d02abd19ebe4ae71ef414cf55ce7953760eca603"
+    },
+    {
+     "from": "2016-04-04",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "ba387d74de7bfc1dc6036fc296a8920bd36d317acc1eaaa1f33fc5b524063495"
+    },
+    {
+     "from": "2016-04-29",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7fe627e03cbf2d07a96b5f43c33dad99d269262f467dfc2d3a1d9ee457112dbf"
+    },
+    {
+     "from": "2016-06-20",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "323929437881b0a7eb3cb8805a1c5bce33881e4d50b83a4ea35783bdcea9f9ea"
+    },
+    {
+     "from": "2016-06-21",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d54118b46351033f272c9d13c33c5b886281354f83ea5ff6ff4b2d21b47b1f95"
+    },
+    {
+     "from": "2016-09-09",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b4e475fb48f8e9bfcad5269308b372bfd41e35bed0b957b9545ebd20a05c16f9"
+    },
+    {
+     "from": "2016-09-12",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1e2ae345ea0e2ade71163194422e57fbd841bf8ceea86953cb85ffb8e98f5ae0"
+    },
+    {
+     "from": "2016-11-22",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "41891ffc57e88967cdff9215d0e059ee5c5f6a9378d71f30fe7a065b9620cc0c"
+    },
+    {
+     "from": "2016-11-23",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "998d45b419236d2b016ffad635001d06b3b682848a82f412d5e996e29f09a872"
+    },
+    {
+     "from": "2016-11-24",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5f0b0cfe06568f51179d5a89e3a00ed7bdaa53e2ca8ab439574f611efe825e4a"
+    },
+    {
+     "from": "2016-11-25",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "473d199dd17a76904331f1152a5fd00b8c07bef49e3a1a2df11da6a75928e1d8"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4ced6c94cae7c4fae82bbd1a131018a702704e08304f1a5f933e210ba1c23966"
+    },
+    {
+     "from": "2016-12-28",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7e1ce1e15a233ac50f0835ee167034cfbc46c26bcd63d99a1a438264da21391e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2017-01-16",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "0e434fc8056dac3e08b37af5047b8602955169ccc171873291c18f8563892808"
+    },
+    {
+     "from": "2017-02-02",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7ff9b625f3b3b82810e0853bc8c9780198844ec91ec1f671af344ff5ff02a8e1"
+    },
+    {
+     "from": "2017-04-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "277b511aca38d05282bbe9411dd7ef62bd860c702ee0204d082b61b614ddf0cd"
+    },
+    {
+     "from": "2017-04-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6fea8e40244772de851ba4c362bca5b64077b6615d8f69609a37a0a7ffc1c651"
+    },
+    {
+     "from": "2017-05-04",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3f7505f14906556c4d3dd647f3edc3fd8b1b98598b421c4e9155522d966422e0"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d2fe9f34a44793eaf96087b8f0637aab6ebfb6faa39881cdb2984359c5f435da"
+    },
+    {
+     "from": "2017-07-04",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "292b771c8cb369cc08e4a1df1e37fb5dd61f10717bf40d142b99cffaf53d5be6"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a3fce3e6e4c283aaf8283a33cfb8298e25672077627d2fae137454e7707b0363"
+    },
+    {
+     "from": "2017-07-21",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3bae27831ba7afca5f80ce62558eb24d8a57beab56c1aa9841f215f115ebb604"
+    },
+    {
+     "from": "2017-09-04",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "27dee404f3706c671856750c19a9769fe99103fe887985e5488b7d0b2883dea6"
+    },
+    {
+     "from": "2017-10-03",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5ae9e308b95ac8da7afbaff4c2ba4157db8c584bfb20989a7081591a16431a7c"
+    },
+    {
+     "from": "2017-10-04",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "35ce49ba993795d75c6e1a5ccd1682009acd5ddfcd13b26b00fa6ddf38a027d0"
+    },
+    {
+     "from": "2017-10-31",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6efc19f0d302e4eb499cb8d67e6b79fc7b878fead474b25d1a312be32fa43f7e"
+    },
+    {
+     "from": "2017-11-27",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "efd2e6f5880b8a92c86534707bf7f14b707f54e34ea8336321473dca8e1fe257"
+    },
+    {
+     "from": "2017-11-29",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "77e29106293d7bf735e9dee0db612c7a09726bc0b069998f992027643a458609"
+    },
+    {
+     "from": "2017-12-11",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "0fc0c81bfa4109e026288d8f09630c724ad6059a441a30a39070b3de8bb0c4d3"
+    },
+    {
+     "from": "2017-12-13",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4fd8debb8aa2d5194ae69976b7637db202da1350fcfbdbd47568e1ced73f6de7"
+    },
+    {
+     "from": "2017-12-18",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7de22444306a965585350baa06d1bcbbede04a0f7b60ddf45666c1a4af5cdb75"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "35f59bb4f5394f1438c8cea05ac122c11927707c9f31935b1d1139100a7f4069"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "ccef851f540dd6f2b1f206e813943e30cb223d3ad95f2d3045497f217150b8ad"
+    },
+    {
+     "from": "2018-02-27",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2dbc26d49be2743f4bc79d72ed0fc133a0dbd55c3619af5f5add5f7dbea6a961"
+    },
+    {
+     "from": "2018-04-02",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5a257ad9687e13274fdfe25a919ac044ada31549b03eb8a0bbb4202af63b2241"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8866f6b6b27f83326304dcd29e75450d1d4302b9cdc6302b22c468a198b7f74c"
+    },
+    {
+     "from": "2018-04-28",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5fc7b7bd6678814125fb0900071a4b45601acc936a5457b96e19bebaa269692a"
+    },
+    {
+     "from": "2018-06-04",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "ff5253d15bbbdcfebb25513bb92917a9d0d7d35e1416c4b61b2a680b8d8f0d3e"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8a807c570a2ee85f53776b5d43fcd5a3928aaaef5708b2cba9f8ab3fb23c3bab"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3f454c31b351837a2d112aadbe79742ee22a481ecdd1e9080e053b35d93580bf"
+    },
+    {
+     "from": "2018-07-04",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e84912db5136d97405a71c9f3db51dc0b2e5a693de2e98de42f152f255a42ac1"
+    },
+    {
+     "from": "2018-09-17",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "bb616f46fa68541caee3e9e05e1e787f29f0da7cd05f33af4423aa3ad6fbf6e1"
+    },
+    {
+     "from": "2018-10-22",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2aa51688b4f08cf4341b2a48d486783edef4b88ffa053dc8d541e1fc542c4de9"
+    },
+    {
+     "from": "2018-11-19",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5a2fa41969e59861ed6d9fa898cbc344664dfa219101201040cb07f5418418c4"
+    },
+    {
+     "from": "2018-11-20",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "bcea6537b928e465ecbc5369b9f8becf27f60ad0c54428e134c8180b45e47a71"
+    },
+    {
+     "from": "2018-12-17",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9f7c67e60f704edd9ea4533f6bbb0dc63d747e6a4798e37439320323a49b927f"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6922d6bc5a4953175cd246cb4a7597e2558ccc25aa6d75eb51fd6f874d5a666a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3f6176c3ca77694afa51458e3f8f234ca6f8d6e6b58f25564d476918adc1a47e"
+    },
+    {
+     "from": "2019-03-04",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "24f29ae0b4f9d15603471df1021e47b089268c5c2d633b52296c57295f1a7cee"
+    },
+    {
+     "from": "2019-03-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "686c9a17dff6e6b5c7194f289b52114d97012008ca9e8db8f227dfd9f31e32da"
+    },
+    {
+     "from": "2019-03-29",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "980f5274d7601730ffcc6cf80d283baf8690aeb59f2b7d074bf69cf344a24c22"
+    },
+    {
+     "from": "2019-04-30",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6fbff7679b1e2b10db488d8fc1fe587e4733989978e3a8018f3e6be70fe530b4"
+    },
+    {
+     "from": "2019-06-03",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "50e07bdfd73660e642d10319c7410f8966aef10fbd3eebab5aeb4e89903fd2a7"
+    },
+    {
+     "from": "2019-06-04",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e0bddc2f42e76d647fca4a134fc1159bf350e3195ed49b60dc1af016c2f6a3d2"
+    },
+    {
+     "from": "2019-06-20",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b520fa2f6792d5e48864ab91ace5794c7372fd3ec967ddfcbd536c8cb99e7099"
+    },
+    {
+     "from": "2019-06-28",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b509c68fc1f6a5030aa40a7794014c77428ce946e93637e2eef52b38bab382d9"
+    },
+    {
+     "from": "2019-07-25",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9977d4921f102ca48c488770ab56ff22e0c422ac3880a85160c6579aedf67b4d"
+    },
+    {
+     "from": "2019-09-13",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "857992462b1ea87a79e75e732e496a6a3ab3f522968cd2ca8d74e81f228e5157"
+    },
+    {
+     "from": "2019-10-23",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "13099c74997d72a308a03108e5d888507923b9400b9f99d0e6ec319627323b88"
+    },
+    {
+     "from": "2019-10-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4897075fbda4ea030357c2241e18920b94225af8383a07fdc12c4a312c2a870e"
+    },
+    {
+     "from": "2019-11-22",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4b3cdca620007d3951422bda73e88f223ab11211f178e87062229eed0bbb4a6d"
+    },
+    {
+     "from": "2019-11-25",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5a51a5c0f386643571d323ba9194b1715508d60a636c66100143e18d40fd36ba"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "402eac2109f64613e88ee7ab2844a4f747be0ca83fe3b0c61c05d00d746d5a7d"
+    },
+    {
+     "from": "2019-12-12",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "331afa1c49531c6bb14fde76fa3cee7d7c3d8044a267c9601b4c8e88cae33f7f"
+    },
+    {
+     "from": "2019-12-13",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f4943056b32903009c37db307c4bdf3dbf4aa3812b9ea667d108d397535ee769"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1a67bc1026cab0a382c2971413d42481529c8c02c740181bceba296524eecfbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2020-03-02",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f28c60e82c29f5b341ef9d38409bb3152b7b31b0c039c5207e5a60fb9b226156"
+    },
+    {
+     "from": "2020-03-03",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f89666c1beb69a63d7175a0da979d2d8a4dc539ae70d5120d4dc5b559045fb3e"
+    },
+    {
+     "from": "2020-03-30",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "40d18dd67d6e88a15388a3d8434357beb43f14d45294ce4c0e30c566c70ea421"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "415df278a9ead73d652839cae2c7578d3e888f363b7dc31e7feeadf67999a6b7"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "aac209c8cd36c019c8f040ffdf351baa3b7799274649d6940b30db059a482c8f"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8f7b26510ef2d70d66f6ce6a3b87b547d6a4b1a23e97e0839c71ed3afeec3f6d"
+    },
+    {
+     "from": "2020-04-09",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b87e8684b182682c41b50bb76434085ef6b44e06731424704206e6192e42559f"
+    },
+    {
+     "from": "2020-04-29",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8f8e412d440018d8841a28d9f5df93d6cd9ca9104afd29ba140e52157eff8d38"
+    },
+    {
+     "from": "2020-05-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f05ea95b38e6589bc3e13d9bfbeeaf3985a8b58be00a08c8102e7980a32d358f"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3b9558d14f808031d07269ca042e3b60b81112b079ca2abc5520d4b70cd8eedd"
+    },
+    {
+     "from": "2020-06-29",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "12a14d8c323226c7f6a1768cf3591f0a80dd6a4c749127ed0454278aac2a3d7f"
+    },
+    {
+     "from": "2020-07-13",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "faf536421f5bbc93439b6476591540d819901db90a5ab15ff5e61a6f940b6746"
+    },
+    {
+     "from": "2020-07-28",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "bb9b00b46b6e1ae7e085b5b964053b541bf70d78c8f5e4f733ad53e2c5b5677c"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "c5311ce2d604c9b8cddb4da594c59d2651f0dbe84c1d90f33c8b209bef5fafb9"
+    },
+    {
+     "from": "2020-09-14",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "fdfe3d18022c5c06e1fa853c14b4d570967ada41fda92f8a2b0c1bda2506a70c"
+    },
+    {
+     "from": "2020-09-28",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9b2d527ef7195da84771e81ec306d67e7e3ba025b8a339e09318bcaf30fa3f82"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f3b9af6dc0c162e5cc7cdb7c3211672a9bbc19f76516ea22626d7ae7a067d6d3"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "172ff3efe143e536ca7afe2541d9c2922200b877ba448e243c87fb1190d0a290"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2dbe5c45665f78a24f30597428ea7dca3c630058ee64f71224eb0482b6bb1fc2"
+    },
+    {
+     "from": "2020-12-03",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5f520c533c065b9dd02eede8b91a120229296568e77447fa2649706b7362242d"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8fb27c393e4fe73bac824ed55411b41d664f979f026cfc7ae0144daa32382c69"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "daf87d47ee4ccf0ff25800d4ae05b1fd6cd5fc6af75ae1eb4b0ca1121f6d9aab"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 141,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "88dd651dbb6c322f993fb8a61a9c8ef0ec7459dbd8bf8dc8d2b13ab9e0ceb667"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1dbd2d95198c52450bcfc824326d6155d95ceff75cbf833fbbf683cc856e6b47"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "0c95835eb08f8841919eb56e1951985f7a5b95f9e5de17badab40463610c4ae8"
+    },
+    {
+     "from": "2021-03-29",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "51c455bec7e242290b8a1047580ff1da02689f3b1178d8ebce9bfdfc7df506be"
+    },
+    {
+     "from": "2021-04-20",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "94b4a08963b83bbb74dcd96cea3fd654a4812597ed456cd136eb352edf05e00d"
+    },
+    {
+     "from": "2021-04-22",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "90dbf29f04e6c3a2f2f9d7f6839fe539d4bcdbad0bf77e2451ea9da160a6ee3f"
+    },
+    {
+     "from": "2021-06-18",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1ca0fbd9fab2a0735cdc65241f189b0272cfe535ea9c2cac17936af27b06ff06"
+    },
+    {
+     "from": "2021-07-08",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "578260e9f864ca44e7b3a41c61690a05155b34dd86fa4263926e2ff2a7b320f8"
+    },
+    {
+     "from": "2021-07-28",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "40b327b3d8a7c512df59c9ddf2cfcee6e77352eaff6f5431f7f5d05f3a987553"
+    },
+    {
+     "from": "2021-08-03",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f644d1758dac0b52ff6dff9b825c9769bde04ecce258a66c0e7e8b5ceaf22ce9"
+    },
+    {
+     "from": "2021-08-06",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7a02baf90612c75e60f182497f3e607a88d5472be0bc389b5156a1b14de082ce"
+    },
+    {
+     "from": "2021-08-19",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7ebc21fe9c6c8cbf491cc3ae9bdf20ffcc5137ed79dc04288550fce8fccee585"
+    },
+    {
+     "from": "2021-08-23",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1fed6a9314c11872f3155e9969e98ccd0beb5a87dd8d1600a5c72516f980c875"
+    },
+    {
+     "from": "2021-09-02",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2212540bfa1026affe41bd64910277775adaa7c909a707a34540bdcbe936c325"
+    },
+    {
+     "from": "2021-09-10",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "21788cc61fbc8eab310d965c51fd5cecf28a809a08d73a4ede52fbf06216f2de"
+    },
+    {
+     "from": "2021-09-20",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "b4f7227ddc4da032462acf66fcfd40d87aac2736ed085eefd4ac6db274a866d1"
+    },
+    {
+     "from": "2021-10-12",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a2e6fa6fca2159799747030316c93896cbe010a0274a9706da3d4d10aed08526"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d993e44691ff494c697c17bb6ee817a2222e5dd4e741cc5b04ea36ad88688b58"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "261824e8aa9a1a850fd8e0b61e745b61e0fe6d3688cda18ee9d44cdc8feff769"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "953af0f9d317920e917536183594df7d51c81b702297f6659314575717358728"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "fe9189021245518afab644adb7bd7467c864b1dc28112dfcf9f714570ec8a5b5"
+    },
+    {
+     "from": "2021-12-28",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "75d734fbd0227f7fccbc9b70a9f297839c982b71ffde071fc06b167c9a3d8714"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1859527e06604722018ce84ba825804425f821c23dd4806b276eb9ab6b5548a7"
+    },
+    {
+     "from": "2022-02-25",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "c633863ddc01a88d81675eb3e94c1589800afab352db3b81385dcdfec32621dc"
+    },
+    {
+     "from": "2022-04-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "ccdd41e63b910175116dd1b206eb40be205ca30f451344833f7623cc852174df"
+    },
+    {
+     "from": "2022-04-20",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f20a7205b88a696e40cc2b8febe1c948cebb681755013479125d31bb110108b1"
+    },
+    {
+     "from": "2022-04-22",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "0a59c4768973185df97d763451ae5c99b105069cac4704b79a1f2dc04a4c364c"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9b74d106deca298c1ee13dc65399926b6f9776949b0c991c012f3602fc1c69c7"
+    },
+    {
+     "from": "2022-05-31",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5a454818fe61e2313d00a82214c15c795b3e59e76aeb341983214836dcf6dd34"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d8bcaddd515b3ca2694a10f888a095104b4ae30a964b6cc3161a0ac042ec7320"
+    },
+    {
+     "from": "2022-07-04",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "083fc1a35e964caec8b53eb71f66d1b173a32a1b96635530b7a2906375891694"
+    },
+    {
+     "from": "2022-08-02",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "dc61c0cfaff21a7df02062f22852ce1865b509cb544add89da387e7043a0b790"
+    },
+    {
+     "from": "2022-08-04",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2a66e96d3d892487e4b731500a3eeee75022cbc9f0dcc699dcc305b0853f2ef7"
+    },
+    {
+     "from": "2022-08-08",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "86a6e748b9d7acd7aecf8accf40b8f3d018d2e5f27a908988bbeaf8a9c2880b9"
+    },
+    {
+     "from": "2022-08-26",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4e7d589e4782e1f4eb336a54575e634d36aaae01b5d4f76784523865cd613723"
+    },
+    {
+     "from": "2022-09-30",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "67cc2339e97a04f962c6167d9b82ad56224cf3216b91bc2740bb05dee6819a63"
+    },
+    {
+     "from": "2022-10-03",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7d21e7af188be89fc1b18c521fa3191c050ec3a41f0a62515c6adddd9ee8fead"
+    },
+    {
+     "from": "2022-10-04",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "193116ce285178057a33b952ed3acc8132da2f02378a402e6fb02cbb5a6b2bf3"
+    },
+    {
+     "from": "2022-10-05",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "602c92a5899b7ab7a58a7ed4b2b0edbd31200f00f6d1d3cf06d2325f4d2b45d5"
+    },
+    {
+     "from": "2022-10-13",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5443bd42e50436c01bd887d8f1a1fd6a497ffa6000a20c7c8b7bd6ecaf1bb188"
+    },
+    {
+     "from": "2022-10-28",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "c52b9f345765cf6b9ed29590d711eb9b4897ffe379ff00e8bfbe89face2e4e77"
+    },
+    {
+     "from": "2022-10-31",
+     "units": 127,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "eae947a6f5999c82c911036ec5c91fcf71e9d1fab3e29029ab9a4391a38055a6"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 130,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1fe16f1874476fdd33603901a893d253dff7ad79edcd95178306e856435909ca"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 131,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5a7ab91354af58361ff99b5d37e0176cfa2f26f08719ddbb742eb837c932e11b"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9b5e4e462ebdd074e765a339d56f916292ef653ac03ce8b9e0adec56e6201ac7"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d782ae57e081b8f228a842087a40db5a2c87d215a493bc26359149ec81f13ded"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "48d72c746ac53c5aea51c8eec4253935bee051f71754f392b082fff82843108d"
+    },
+    {
+     "from": "2022-12-07",
+     "units": 150,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e668f02ae86de38793e2e28d266bb44542a0bdaabf7f431cc9b04ed9e3618f4d"
+    },
+    {
+     "from": "2022-12-08",
+     "units": 151,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e1bacb844128f366348a668b737773482cb4d5a3c66c105570c9c5b9496daa38"
+    },
+    {
+     "from": "2022-12-26",
+     "units": 158,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d533a5fcad46e0761c44ccf07b992185ab55a627b78c6320b5f43b53442aba83"
+    },
+    {
+     "from": "2022-12-27",
+     "units": 159,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9c5c787ba5c41acc67f123f46f7fce8078a540e4a569d7359474202040cd95a4"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 160,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "21893cae2896af2ed5eceaa862baa0226e6bd0952e709af14b6eb6f82df64032"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2af33bec791ad21a1b75a833972d0a25d1a75fd371810fc1cc818996c2890ea8"
+    },
+    {
+     "from": "2023-03-17",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6b66c77a404c583ba9d5b5f6ef6864975feab9d3454b62625f575bdf99b724e5"
+    },
+    {
+     "from": "2023-04-06",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "950ed92efd2420ca118c6cddeeec2d406ccb9655ef30230340bc12d061fedbc1"
+    },
+    {
+     "from": "2023-04-24",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2491107bcf28bb48a6dbd46eb2beb7e7fb894ca72d4d37fc35fca2dc800556ad"
+    },
+    {
+     "from": "2023-04-25",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d62c260108b6abad62e37a41ab908ac72d8b093809a48fa28ae374986081db1a"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "dd7cb2b951cca47bc8e6b9b736df957a6e8247ca70931c105c41f23414b74f71"
+    },
+    {
+     "from": "2023-06-20",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a406aa05222c97600e92fa609c449b12ee32ca9ea60572d78b09fda58eef0239"
+    },
+    {
+     "from": "2023-07-04",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "c2e52feb8a251ae5af16ab769d66c3b136dbbe18f2a44c3c97c23da3bafb4467"
+    },
+    {
+     "from": "2023-07-28",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2e5ac349daabf9dbe476e466654f6b22940e8a6832ebceb0bc30f9a6d36ab3a8"
+    },
+    {
+     "from": "2023-08-28",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "db3dfbc97557baf837d7e8c6966db055ac8e3622a333c1d50e9cdccd038b7f56"
+    },
+    {
+     "from": "2023-08-31",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "f9e8021dd6fb5851a364d3c05288ccd57bd7906d14ccf5e1fbcf3583d43ef368"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "05c8d7e737fd8fcc2040138bece24c1cc642f72ad65bdd0676973c0067d1ee2e"
+    },
+    {
+     "from": "2023-10-17",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "258a31e4d624f05209b54094e732e2a9fe1dc35934c23c19c1fbe9071cfe537a"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "9b39070881602dae946afd6a3dc4047f4af597d203f25dacf811db6dcb4d1ac0"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "fb3f416977e6c028fe2abf42d8d12179176a072053d3751ce282c3c2a034b667"
+    },
+    {
+     "from": "2023-12-04",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "77e160e7eb4e4f1766566b53dd2d4c0e2cb7871e48fd49beb3da866e26799d95"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8777d0777f6b48e5d207921a5e27c2e63c06bbde2d02b1d537d56e58e1235cfc"
+    },
+    {
+     "from": "2023-12-27",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5fdd6ccf734babe0bbb68f86c11f5a79082814c03167a9b68836d7c5a3143629"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "15a9c771cf36490e613b2cb1adaf690843e400f0fb62b4971bd68336ceb3e21e"
+    },
+    {
+     "from": "2024-02-22",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "292e49e8f9cd9990a71794cc788f46ad3e25617502e58f94f6d5bacbf91736d4"
+    },
+    {
+     "from": "2024-03-11",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "be68ad20b79a2b86139b1ccd448c6dd076a49ebb7d284ce3dd080292368076ae"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7ab6a6a8e743d30ec852263ec41036aa403e7724ca58d046d277692977e19645"
+    },
+    {
+     "from": "2024-04-15",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "60668225a8c721c360a434dbf2456bb1ee9b5ed625ba6e0952d77daf813d3ff3"
+    },
+    {
+     "from": "2024-05-21",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "873a97b2470551718207aca3ca2f2e4953df663dd609137e54d624d506c4b48c"
+    },
+    {
+     "from": "2024-06-05",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1d445e2d2d664b18001c785e0f52794be5d1d470ce5a89d771350425bb6f28e0"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8377508bb181e6f673d573593bdd2bcef5ed5a7a7ec8010c59a87030c604e023"
+    },
+    {
+     "from": "2024-08-26",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "de1a06f6b896258ea2e35b75c60811bdddb90896faf19d75e22e80f6165124f2"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "82c3d8fd252f4fb62339d8c5057f8e8378289a7bfefd766c1083966d1c59e481"
+    },
+    {
+     "from": "2024-10-02",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "049977767784a870dcfdac6aff6ffd76b497d6086211622dcaa27d9244653507"
+    },
+    {
+     "from": "2024-10-03",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5ecd5dfb46577fa67b847bccfe12c60195212735fadc4eb6fa57be645d61ef0f"
+    },
+    {
+     "from": "2024-10-15",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "d6582259a528e2d82508840f2c78dea0ff88a7143dfd8df7502ae84dda092043"
+    },
+    {
+     "from": "2024-10-25",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1dfb45d3cb9f51ac8581247426c5274cb0870c92643d468ae3808f76fcae336c"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "41023399c184a20f78b63fb407ff6a3051648b4035899eb39a7748f4af460e98"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "78f3ba1e851a5f56330bb5820f275c14cca442459fe1da89c133f6c906c8e6a3"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3ccfcbb5d845b89a8402666127883a242c41da1d57b1b396c2070851d717f7bc"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "14d4a91f47666a4deb62d6de09ef6a40f8d69fff119f5d8be9822704d3999f54"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "5b1f5b15ebccf3c6bdc70b9b72a52f7c54023db8a32bc3b4effe8310ab4e248f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8c7f8e6db6066ea8e540ef3124d9ca181d2f7a7623b7b205d359dbdb4a965f67"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e3ec051bf9ae8e22bb3cf2eeef6223384e6d693a2b2d074fe83e4c5817dbf6c8"
+    },
+    {
+     "from": "2025-04-28",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "abcee74fc48f76103ca52590b437d83881fd12151d6b4f244fd2924f8d9a3a26"
+    },
+    {
+     "from": "2025-06-02",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "3eb9b5e18b4a143efd6099c578aef9986ec278c8e3bff1a5d37612f7b6a70353"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "fdc09a83ed7b96a104e3d68c978840d547461c7d7aeb9dc9272a31375f465809"
+    },
+    {
+     "from": "2025-06-11",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a5b8bdb8999faee4727cfd5b118c8c6f0875c571df360dc125e871912d41afe4"
+    },
+    {
+     "from": "2025-07-08",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "6261516e21f86ebf90dfe972ae6c8945bd72ee87b7626b48b8f57022aed7b5a9"
+    },
+    {
+     "from": "2025-07-10",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "55c962293258e9530aac54d098a986d3c162f04d95a49c8ff779fb4a6ac337c1"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "7a5542bbf4ce3cd8f63782cf47b04f16bf0addcb04099fac94de1ac93d42651b"
+    },
+    {
+     "from": "2025-09-15",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "858b332ca6e8010fe6c8a75470b8b051f4c40be10de882b1e80432e8b1e4b734"
+    },
+    {
+     "from": "2025-09-25",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "062c64fcbe4d2f72311a27505ea6ea7bca3953abdd4fbb7aa259047c485dbfb0"
+    },
+    {
+     "from": "2025-09-26",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "4d3e17ca356143ec6681748def385ed02477e7367acaad148cf82007858c1f5d"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "44d3f4a7121c5dc433da8bd826f0e297baf2a406b5cd06bd183ca5de3c6423dc"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "71d0a9d485dd3e94d7155e28dd461e3948056cf4f4bf3423dc9109f783594c69"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "2e239ff750e551d3227a12f6898507d08ecbd069e8125512d7e87514fa36e720"
+    },
+    {
+     "from": "2025-12-04",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "931eadb90c514c6e5ba5243751583d4e14547bd28a13bf95391a57bacab51bbe"
+    },
+    {
+     "from": "2025-12-11",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "db46367c4197c7c5bab90a3ff1ab851c39b97adee5869bf4f99832faec4852a5"
+    },
+    {
+     "from": "2025-12-25",
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "8b523e178cf00aef8a8992710cfa2db6acc95722f8ebb8e8974a2776dd985876"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region86",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "34a86ad67a5144f74eb3bdefed204202ea1f12385c2dae29a93f8f817027f685"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e773d636095b3867cd334244d00949189a5a79dbf3768cab694d07052c50e286"
+    },
+    {
+     "from": "2026-03-27",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "48bc0acbfc57e16c6c6364750edd9296d7c03c9b2cd82d0935b55c646754c258"
+    },
+    {
+     "from": "2026-04-24",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "02046d97234fd0a3258c17db0f5577ebfb70e7a9c13c2d91983d03d44753e37d"
+    },
+    {
+     "from": "2026-05-18",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "e779da9c36b7fa8b2021eca7ac6de2a5b8bdb87355658caf33c1ad806b35d192"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "a2e5938733fbdce41800e20e7634c7889a03a912a603311171bbe0211ffa0d30"
+    },
+    {
+     "from": "2026-06-10",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "1232bc01a0e8ecec61c430bb7a99dae02f82784dbb019730dd34d793b7d73c7e"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "546e75d0bd80e1c19b3ce491ed0a24a2826850bd6cf941462415f1dfb2aa6476"
+    },
+    {
+     "from": "2026-07-10",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "65165ccab527adfd461d692ee3845e8b10f3bb41ec8f54fa62c0b395d706a2af"
+    },
+    {
+     "from": "2026-08-25",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "c9800a4056e1c5d588aba1b6dbc6b8e65d0d5f5eebee3f71123d2f0136507cb4"
+    },
+    {
+     "from": "2026-10-13",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "01ecefa63701622e13a03d0dd350b5632602cb9775b68a9a5046bcfacc10b135"
+    },
+    {
+     "from": "2026-10-28",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region86",
+     "sha256": "37e7ce149b594d7064aa2d3cbf12575e609ca9da78f2a4daffa27b0a0e049b2c"
+    }
+   ]
+  }
+ ]
+}

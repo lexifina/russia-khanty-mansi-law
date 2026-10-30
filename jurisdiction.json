@@ -1,0 +1,11 @@
+{
+  "path": "ru-khm",
+  "code": "RU-KHM",
+  "name": "Khanty-Mansi Autonomous Okrug (Yugra)",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-khanty-mansi-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
