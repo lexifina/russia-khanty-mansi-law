@@ -1,0 +1,66 @@
+{
+ "generated": "2026-11-24T13:56:32Z",
+ "latest": {
+  "pravo-khanty-mansi|russia/khanty-mansi/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1469,
+    "current": 1469,
+    "gone": 0,
+    "held": 1469,
+    "newest_in_repo": "2026-10-28",
+    "pending": 0,
+    "repo": 1469,
+    "source_in_scope": 1469
+   },
+   "check_id": "ru-pravo-khanty-mansi-20261124T135318Z",
+   "commits": null,
+   "corpus": "russia/khanty-mansi/acts",
+   "error": null,
+   "finished": "2026-11-24T13:56:31Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region86: 1469 law-type documents listed (every page read); 1469 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 11,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1469 law-type documents in block region86; newest published 2026-10-28",
+   "source": "pravo-khanty-mansi",
+   "started": "2026-11-24T13:53:18Z",
+   "unexplained": 0,
+   "update": {
+    "parts": []
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 236,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
