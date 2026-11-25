@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:56:32Z",
+ "generated": "2026-11-25T07:00:02Z",
  "latest": {
   "pravo-khanty-mansi|russia/khanty-mansi/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1469,
     "source_in_scope": 1469
    },
-   "check_id": "ru-pravo-khanty-mansi-20261124T135318Z",
+   "check_id": "ru-pravo-khanty-mansi-20261125T055702Z",
    "commits": null,
    "corpus": "russia/khanty-mansi/acts",
    "error": null,
-   "finished": "2026-11-24T13:56:31Z",
+   "finished": "2026-11-25T05:57:48Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region86: 1469 law-type documents listed (every page read); 1469 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1469 law-type documents in block region86; newest published 2026-10-28",
    "source": "pravo-khanty-mansi",
-   "started": "2026-11-24T13:53:18Z",
+   "started": "2026-11-25T05:57:02Z",
    "unexplained": 0,
    "update": {
     "parts": []
