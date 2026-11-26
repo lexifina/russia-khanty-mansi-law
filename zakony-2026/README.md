@@ -1,6 +1,6 @@
 # Khanty-Mansi Autonomous Okrug (Yugra): catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 12 versions, from 2026-02-27 (latest in force: 2026-10-28) · <http://publication.pravo.gov.ru/documents/block/region86>
+Законы 2026 · 13 versions, from 2026-02-27 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region86>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -78,5 +78,6 @@
 | Закон № 74-оз | [74-oz.md](74-oz.md) | 1 | 2026-10-13 |
 | Закон № 75-оз | [75-oz.md](75-oz.md) | 1 | 2026-10-13 |
 | Закон № 76-оз | [76-oz.md](76-oz.md) | 1 | 2026-10-28 |
+| Закон № 77-оз | [77-oz.md](77-oz.md) | 1 | 2026-11-25 |
 | Закон № 8-оз | [8-oz.md](8-oz.md) | 0 |  |
 | Закон № 9-оз | [9-oz.md](9-oz.md) | 0 |  |
