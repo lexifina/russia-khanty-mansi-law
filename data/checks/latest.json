@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:17:02Z",
+ "generated": "2026-11-27T06:09:26Z",
  "latest": {
   "pravo-khanty-mansi|russia/khanty-mansi/acts": {
    "attempt": 1,
@@ -13,31 +13,25 @@
    },
    "census": {
     "checked": 1470,
-    "current": 1469,
+    "current": 1470,
     "gone": 0,
-    "held": 1469,
-    "newest_in_repo": "2026-10-28",
-    "pending": 1,
-    "repo": 1469,
+    "held": 1470,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1470,
     "source_in_scope": 1470
    },
-   "check_id": "ru-pravo-khanty-mansi-20261126T053325Z",
-   "commits": {
-    "count": 2,
-    "from": "d75aa5526fcec51a18a57137a32193659d44a881",
-    "to": "7780069f18e7789cb5bbc2050070a843454bdd2f"
-   },
+   "check_id": "ru-pravo-khanty-mansi-20261127T052834Z",
+   "commits": null,
    "corpus": "russia/khanty-mansi/acts",
    "error": null,
-   "finished": "2026-11-26T05:34:20Z",
+   "finished": "2026-11-27T05:29:10Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region86: 1470 law-type documents listed (every page read); 1469 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region86: 1470 law-type documents listed (every page read); 1470 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "8600202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -45,28 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8600202611250001"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1470 law-type documents in block region86; newest published 2026-11-25",
    "source": "pravo-khanty-mansi",
-   "started": "2026-11-26T05:33:25Z",
+   "started": "2026-11-27T05:28:34Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
